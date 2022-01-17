@@ -67,7 +67,7 @@ You can browse and change both classes you have just loaded:
 1. select the **Fizzbuzz** package
 1. select either of the classes on the middle pane; its methods will show up on the pane at the far right
 1. select the method name 
-1. the method body will show up on the pane at the bottom; you can edit the code and hit the *Commit* button to save the change, if you like  
+1. the method body will show up on the pane at the bottom; you can edit the code and hit the *Save* button to save the change, if you like  
   
 ![](./images/method1.png)  
   
