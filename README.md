@@ -43,7 +43,7 @@ We need to write a function that:
 I gave it a whirl on my own and the outcome of my attempt can be found on the [src](src) folder.
 As prescribed by TDD, I have iterated towards the final solution being progressively guided by additional tests, one at a time. The test and solution files I created at each iteration are numbered from 1 to 5.  
   
-If you need some help to start the exercise due to not being familiar with Smalltalk, open the [Fizzbuzz-1Test.st](src/Fizzbuzz-1Test.st) file, copy all the code and paste it on the *Workspace* tab as described previously. Select it all and hit the *FileIn* button as shown below:  
+If you need some help to start the exercise for not being familiar with Smalltalk, open the [Fizzbuzz-1Test.st](src/Fizzbuzz-1Test.st) file, copy all the code and paste it on the *Workspace* tab as described previously. Select it all and hit the *FileIn* button as shown below:  
   
 ![](./images/test1.png)
   
